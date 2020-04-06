@@ -1,4 +1,4 @@
-module XDG
+module XDGSpec
 
 include("BaseDirectory.jl")
 
