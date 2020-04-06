@@ -1,2 +1,23 @@
 # XDG.jl
 
+This package currently contains:
+
+- Implementation of the XDG-Base-Directory Standard
+  http://standards.freedesktop.org/basedir-spec/
+
+TODO:
+
+- Implementation of the XDG-Desktop Standard
+  http://standards.freedesktop.org/desktop-entry-spec/
+
+- Implementation of the XDG-Menu Standard
+  http://standards.freedesktop.org/menu-spec/
+
+- Implementation of the XDG-Icon-Theme Standard
+  http://standards.freedesktop.org/icon-theme-spec/
+
+- Implementation of the XDG-Shared MIME-info Database
+  http://standards.freedesktop.org/shared-mime-info-spec/
+
+- Implementation of the XDG-Recent File Storage Specification
+  http://standards.freedesktop.org/recent-file-spec/

@@ -1,0 +1,7 @@
+name = "XDG"
+uuid = "fe33d248-b583-4bd1-8106-a6949c99f4d9"
+authors = ["Micah Halter <micah@mehalter.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.0"
