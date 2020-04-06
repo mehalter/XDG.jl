@@ -1,6 +1,6 @@
 # XDGSpec.jl
 
-[![Documentation](https://github.com/mehalter/XDGSpec.jl/workflows/Documentation/badge.svg)](https://mehalter.github.io/XDGSpec.jl/stable)
+[![Documentation](https://github.com/mehalter/XDGSpec.jl/workflows/Documentation/badge.svg)](https://mehalter.github.io/XDGSpec.jl/stable/)
 
 This package currently contains:
 
