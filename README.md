@@ -1,4 +1,4 @@
-# XDG.jl
+# XDGSpec.jl
 
 This package currently contains:
 

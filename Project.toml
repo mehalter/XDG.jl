@@ -1,4 +1,4 @@
-name = "XDG"
+name = "XDGSpec"
 uuid = "fe33d248-b583-4bd1-8106-a6949c99f4d9"
 authors = ["Micah Halter <micah@mehalter.com>"]
 version = "0.1.0"
